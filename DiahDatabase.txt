@@ -6,3 +6,7 @@ create table RSMH;
 
 --bikin field
 alter table RSMH Add nama varchar(50);
+
+alter table RSMH Add status varchar(50);
+
+
